@@ -3,31 +3,62 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/bootstrap-responsive.css" rel="stylesheet">
+
+<style type="text/css">
+@media screen and (max-width: 568px) {
+	li {		
+	   font-size: 18px;
+	}
+	
+	.active {
+	   font-size: 25px;	
+	}
+}
+</style>
+
 <title>கடவுள் வாழ்த்து</title>
 
 <script type="text/javascript" charset="utf-8" src="cordova-2.7.0.js"></script>
 </head>
 <body>
-    <script src="js/bootstrap.min.js"></script>
-	<ul class="nav nav-pills nav-stacked">
-		<li class="active"><a href="#">கடவுள் வாழ்த்து</li>
+    <script src="js/bootstrap.js"></script>
+	<ul class="nav nav-pills nav-stacked navbar-static-top">
+		<li class="active"><a href="#">கடவுள் வாழ்த்து</a></li>
 	</ul>
-	<table class="table table-hover">
-		<tbody>
-			<tr>
-				<td><a href="tree_1_1_1_1_1.html">1.அகர முதல எழுத்தெல்லாம் ஆதி
-                                             பகவன் முதற்றே உலகு.</a></td>
-			</tr>
-			<tr>
-				<td><a href="tree_1_1_1_1_1.html">2. கற்றதனால் ஆய பயனென்கொல் வாலறிவன்
-                                              நற்றான் தொழாஅர் எனின்.</a></td>
-			</tr>
-			<tr>
-				<td><a href="tree_1_1_1_1_1.html">3. மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்
-                                              நிலமிசை நீடுவாழ் வார்.</a></td>
-			</tr>
-		</tbody>
-	</table>
+	<div class="accordion" id="accordion2">
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse"
+					data-parent="#accordion2" href="#collapseOne">
+			    	1. அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு.
+			    </a>
+			</div>
+			<div id="collapseOne" class="accordion-body collapse"
+				style="height: 0px;">
+				<div class="accordion-inner">
+				அகரம் எழுத்துக்களுக்கு முதன்மை; ஆதிபகவன், உலகில் வாழும் உயிர்களுக்கு முதன்மை
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle collapsed" data-toggle="collapse"
+					data-parent="#accordion2" href="#collapseTwo">
+			        2. கற்றதனால் ஆய பயனென்கொல் வாலறிவன் நற்றான் தொழாஅர் எனின்.
+			    </a>
+			</div>
+			<div id="collapseTwo" class="accordion-body collapse"
+				style="height: 0px;">
+				<div class="accordion-inner">
+				அகரம் எழுத்துக்களுக்கு முதன்மை; ஆதிபகவன், உலகில் வாழும் உயிர்களுக்கு முதன்மை
+				</div>
+			</div>
+		</div>
+
+	</div>
+
 </body>
 </html>
