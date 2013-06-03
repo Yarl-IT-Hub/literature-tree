@@ -1,0 +1,112 @@
+app.name=Songs 
+tree_1.topic=Vijay Songs
+tree_1.leaf=false
+
+tree_1_1.topic=Deiva Thirumakal
+tree_1_1.leaf=true
+
+tree_1_2.topic=Film1
+tree_1_2.leaf=true
+
+tree_1_3.topic=Film2
+tree_1_3.leaf=true
+
+tree_1_4.topic=Film3
+tree_1_4.leaf=true
+
+
+
+tree_1_1_1.topic=Jagada Thoam.. Jagada Thoam..
+\nVaazhkaiyae Poarkalam..
+\nJagada Thoam.. Jagada Thoam..
+\nEzhuthuvoam Sariththiram..
+\nNadanthu Nadanthu Kaal Thaeyalaam..
+\nVizhiththu Vizhiththu Kan Moodalam..
+\nIruntha Pothilum Vaa Poarilae Moathalaam..
+\nIruttai Viratta Oru Sooriyan
+\nAduththa Thiruppathilum Thoandralam
+\nNinaiththa Kanavu Kai Koodalaam.. Koodalaam..
+\n
+\nJagada Thoam.. Jagada Thoam..
+\nVaazhkaiyae Poarkalam..
+\n
+\nPalakoadi Kaalangal Mannukkul Vaazhnthaalae
+\nKariththundu Vaazhkai Oru Naal Vairamaaga Maarum
+\nVaralaatril Ennaalum Vali Indri Vaazhvillai
+\nValithaanae Vetriyil Aera Aeni Ondru Podum
+\nTheemaiyai Theeyida Theemaiyai Naadidu.. Kutram Athil Illai
+\nThottathai Kaaththida Vaeliyil Mutkalai Vaithaal Thavarillai
+\nKannil Kaarkaalam.. O Indrae Maaraathø..
+\nNenjil Pøøkkaalam.. O Naalai Vaaraathø..
+\n
+\nNadanthu Nadanthu Kaal Thaeyalaam..
+\nVizhiththu Vizhiththu Kan Møødalam..
+\nIruntha Pøthilum Vaa Pøarilae Møathalaam..
+\nIruttai Viratta Oru Šøøriyan
+\nAduththa Thiruppathilum Thøandralam
+\nNinaiththa Kanavu Kai Køødalaam.. Køødalaam..
+\n
+\nJagada Thøam.. Jagada Thøam..
+\nVaazhkaiyae Pøarkalam..
+\n
+\nMudiyaatha Paathaithaan Kidaiyaathu Man Meethu
+\nMunaerum Nathigal Èllam Pallam Paarthitaathu..
+\nVidiyaatha Naatkalthaan Kidaiyaathu Vinmeethu..
+\nVazhi Šinthum Èeram Pattu Nenjam Møøzhgidaathu..
+\nAalayam Ènbathu Køpura Vaasalum Šilaiyum Mattumthaan
+\nAthai Vida Maelithu Aandavan Vaazhum Nalløar Ullamthaan
+\nThaaimai Èndraalum O Un Pøal Aagaathu
+\nUnmai Nenjamthaan O Unnai Pøal Aaethu
+\n
+\nNadanthu Nadanthu Kaal Thaeyalaam..
+\nVizhiththu Vizhiththu Kan Møødalam..
+\nIruntha Pøthilum Vaa Pøarilae Møathalaam..
+\nIruttai Viratta Oru Šøøriyan
+\nAduththa Thiruppathilum Thøandralam
+\nNinaiththa Kanavu Kai Køødalaam.. Køødalaam..
+\n
+\nJagada Thøam.. Jagada Thøam..
+\nVaazhkaiyae Pøarkalam..
+\nJagada Thøam.. Jagada Thøam..
+\nÈzhuthuvøam Šariththiram..
+\n
+tree_1_1_1.leaf=true
+
+tree_1_1_2.topic=Song2
+tree_1_1_2.leaf=true
+
+tree_1_1_3.topic=Song3
+tree_1_1_3.leaf=true
+
+tree_1_1_4.topic=Song4
+tree_1_1_4.leaf=true
+
+
+tree_2.topic=Surya Songs
+
+tree_2_1.topic=Film1
+tree_2_1.leaf=false
+
+tree_2_2.topic=Film2
+tree_2_2.leaf=false 
+
+tree_2_3.topic=Film3
+tree_2_3.leaf=false 
+
+tree_2_4.topic=Film4
+tree_2_4.leaf=false
+ 
+
+tree_3.topic=Karthik Songs
+
+tree_3_1.topic=Film1
+tree_3_1.leaf=false
+
+tree_3_2.topic=Film2
+tree_3_2.leaf=false 
+
+tree_3_3.topic=Film3
+tree_3_3.leaf=false 
+
+tree_3_4.topic=Film4
+tree_3_4.leaf=false
